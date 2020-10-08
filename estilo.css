@@ -1,11 +1,11 @@
-p.rojo {
+p.navegador {
     color: red;
-  }
-p.azul{
+}
+p.identificador {
   color: blue;
 
 } 
 
-.especial {
+p {
   color:green;
 }
